@@ -1,0 +1,16 @@
+Direction	 	Phone Send	 	Phone Receive	 	Time	 	Message	 	 
+[A - B]	 		0999001231	 	0912342321	 	 	2	 	 	Can you tell me about services of your company?	 	
+[A - C]	 		0999001232	 	0987677841	 	 	4	 	 	I can not recieve messages from my friends.	 	
+[A - D]	 		0999001233	 	0978769991	 	 	6	 	 	I want to subscribe to a messaging service.	 	
+[B - A]	 		0912342321	 	0999001231	 	 	2	 	 	I can not send the message.	 	
+[B - D]	 		0912342322	 	0978769992	 	 	4	 	 	I ran into troubles. Can you help me?	 	
+[B - E]	 		0912342323	 	0923235221	 	 	6	 	 	Hell, who are you?	 	
+[C - A]	 		0987677841	 	0999001232	 	 	3	 	 	Can you help me explain somthing?	 	
+[C - B]	 		0987677842	 	0912342322	 	 	6	 	 	I want to subscribe to some services.	 	
+[C - E]	 		0987677843	 	0923235222	 	 	9	 	 	Can you help me?	 	
+[D - C]	 		0978769991	 	0987677842	 	 	3	 	 	My phone number is not working	 	
+[D - E]	 		0978769992	 	0923235223	 	 	6	 	 	I have some problem.	 	
+[D - A]	 		0978769993	 	0999001233	 	 	9	 	 	I need you help.	 	
+[E - D]	 		0923235221	 	0978769993	 	 	4	 	 	I want to send a message to my friend	 	
+[E - C]	 		0923235222	 	0987677843	 	 	8	 	 	How to send a message?	 	
+[E - A]	 		0923235223	 	0999001231	 	 	12	 	 	How to rrecieve a message?	 	
